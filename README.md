@@ -1,2 +1,2 @@
-# C-_Daily_Programming
-I am trying to solve one programming problem every day
+# CPP_Daily_Programming
+I am trying to solve  programming problems every day on leet code 
